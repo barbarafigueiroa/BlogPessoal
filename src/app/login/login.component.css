@@ -1,6 +1,6 @@
 #img-bg{
     background-image: url('../../assets/fotobg.jpg');
-    min-height: 935px;
+    min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
